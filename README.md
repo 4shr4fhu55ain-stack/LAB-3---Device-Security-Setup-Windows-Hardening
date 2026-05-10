@@ -126,7 +126,7 @@ Installed applications reviewed included:
 ### ⚠️ Recommendation
 Enable password leak detection for improved credential monitoring.
 ![Browser Security](./images/SSS/browser.png)
-![Browser Security](./images/SSS/browser2.png)
+![Browser Security](./images/SSS/browser 2.png)
 ---
 
 # 🔍 Step 7: Browser Extension Review
