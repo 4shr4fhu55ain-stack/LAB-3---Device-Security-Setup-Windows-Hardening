@@ -30,7 +30,8 @@ Enrolled device into a supported update/security model using a separate lab Micr
 
 ### 💬 Client Recommendation
 Devices should remain on supported operating system versions to continue receiving security updates and security patches.
-
+![Windows update and security](./images/SSS/update+security.png)
+![Enroll](./images/SSS/enroll.png)
 ---
 
 # 🛡️ Step 2: Windows Defender Review
@@ -49,6 +50,7 @@ The device had strong baseline antivirus protections enabled.
 
 ### 💬 Client Explanation
 Security protections were enabled to help detect malware, improve threat intelligence, and prevent malicious software from disabling protections.
+![Windows defender](./images/SSS/realtimeprotection.png)
 
 ---
 
@@ -70,7 +72,7 @@ Firewall protections help reduce exposure to:
 - Unauthorised network access
 - Malicious inbound connections
 - Public network threats
-
+![Firewall](./images/SSS/firewall.png)
 ---
 
 # 🚀 Step 4: Startup Program Review
@@ -90,7 +92,7 @@ Reviewed startup applications including:
 
 ### 💬 Recommendation
 Startup applications should be reviewed regularly to reduce unnecessary performance impact and minimise attack surface.
-
+![Startup](./images/SSS/startup.png)
 ---
 
 # 🔧 Step 5: Installed Applications Review
@@ -108,7 +110,7 @@ Installed applications reviewed included:
 ### 🧠 Assessment
 - No suspicious software identified
 - Applications appeared legitimate and expected within the lab environment
-
+![Programs and features](./images/SSS/programs.png)
 ---
 
 # 🌐 Step 6: Browser Security Review
@@ -123,7 +125,8 @@ Installed applications reviewed included:
 
 ### ⚠️ Recommendation
 Enable password leak detection for improved credential monitoring.
-
+![Browser Security](./images/SSS/browser.png)
+![Browser Security](./images/SSS/browser2.png)
 ---
 
 # 🔍 Step 7: Browser Extension Review
@@ -137,7 +140,7 @@ Enable password leak detection for improved credential monitoring.
 
 ### 🧠 Assessment
 No high-risk or malicious browser extensions were identified.
-
+![Browser Extension](./images/SSS/extension.png)
 ---
 
 # 👤 Step 8: User Account Review
@@ -155,7 +158,7 @@ Additional administrator accounts should always be reviewed and verified.
 
 ### 💬 Client Recommendation
 Unused or unrecognised administrator accounts should be removed or disabled to reduce security risk.
-
+![UAC](./images/SSS/uac.png)
 ---
 
 # 🧾 Final Assessment
